@@ -1,1 +1,1 @@
-# DataProject
+# Kickstarter Projects Success Prediction (ML)
